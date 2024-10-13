@@ -1,0 +1,30 @@
+.introduction {
+    padding: 20px;
+    background-color: #333; /* Light background color */
+    border-radius: 0px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  }
+  
+  .introduction h1 {
+    color: green; /* Dark text color */
+    font-size: 2.5em; /* Size for main heading */
+  }
+  
+  .introduction h2 {
+    color: #28a745; /* Green color for subheading */
+    margin-top: 20px; /* Space above subheading */
+  }
+  
+  .introduction p {
+    color: whitesmoke; /* Gray text for paragraphs */
+    line-height: 1.6; /* Improved readability */
+    margin-bottom: 15px; /* Space below paragraphs */
+  }
+  
+  .introduction pre {
+    background-color: #eee; /* Light gray background for code */
+    border-radius: 4px; /* Rounded corners */
+    padding: 10px; /* Padding around code */
+    overflow-x: auto; /* Enable horizontal scrolling */
+  }
+  
