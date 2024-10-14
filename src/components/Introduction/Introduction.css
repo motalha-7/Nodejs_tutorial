@@ -11,7 +11,7 @@
   }
   
   .introduction h2 {
-    color: #28a745; /* Green color for subheading */
+    color: white; /* Green color for subheading */
     margin-top: 20px; /* Space above subheading */
   }
   
@@ -26,5 +26,13 @@
     border-radius: 4px; /* Rounded corners */
     padding: 10px; /* Padding around code */
     overflow-x: auto; /* Enable horizontal scrolling */
+  }
+
+  .introduction code {
+    background-color: #e9ecef;
+    color: green;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-family: monospace;
   }
   
