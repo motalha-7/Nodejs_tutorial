@@ -1,27 +1,30 @@
 .home {
-    padding: 20px;
-    background-color: #f9f9f9; /* Light background color */
-    border-radius: 8px; /* Rounded corners */
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
-  }
+  padding: 20px;
+  background-color: #333; /* Background color */
+}
   
   .home h1 {
-    color: #333; /* Dark text color */
-    font-size: 2.5em; /* Size for main heading */
+    font-size: 2.5rem;
+    color: green;
+    margin-bottom: 20px;
   }
   
   .home h2 {
-    color: #28a745; /* Green color for subheading */
-    margin-top: 20px; /* Space above subheading */
+    font-size: 1.8rem;
+    color: white;
+    margin-top: 20px;
+    border-bottom: 2px solid #006400;
+    padding-bottom: 5px;
   }
   
   .home ul {
-    margin: 15px 0; /* Space above and below the list */
-    padding-left: 20px; /* Indentation for list items */
+    list-style-type: disc;
+    margin-left: 20px;
   }
   
   .home p {
-    color: #555; /* Gray text for paragraphs */
-    line-height: 1.6; /* Improved readability */
+    font-size: 1.1rem;
+    color: whitesmoke;
+    line-height: 1.6;
   }
   
