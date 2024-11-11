@@ -21,6 +21,11 @@
     list-style-type: disc;
     margin-left: 20px;
   }
+
+  .file-system-container li {
+    margin-bottom: 10px;
+    color : green;
+  }
   
   .home p {
     font-size: 1.1rem;
